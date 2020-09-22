@@ -11,11 +11,11 @@ This project was a paired project during Module 2 at [Turing School of Software 
 ### Deployment
 
 ---
-### User Interaction :
+### User Interaction 
 
 ---
-### User Story : 
-#### 1. Existing User should be able to Login :
+### User Story 
+#### 1. Existing User should be able to Login 
 ![1](/readme-img/1.png)
 ---
 #### 2. User should be able to search all recipes by title or description and see filtered recipes and matching categories
@@ -36,7 +36,7 @@ This project was a paired project during Module 2 at [Turing School of Software 
 #### 7. User should be able to filter recipes by cattegory. One recipe can match more than one category
 ![7](/readme-img/7.png)
 ---
-### Technologies Used
+### Built with
 
 * JavaScript
 * Mocha
