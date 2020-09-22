@@ -1,12 +1,11 @@
 # What's Cookin'?
 
+![whats cookin](/whatscookin.jpg)
+
 ### About
 
- This project was a paired project during Module 2 at [Turing School of Software & Design](https://turing.io/).
-
  "What's Cookin'?" is a recipe tracking and meal planning application that allows users to search and save recipes. The application also keeps track of a user's pantry, and can let the user know if they want to cook a recipe, whether or not the have enough ingredients available to do so. If not, they will be informed as to which ingredients they need, so that they may add them to their shopping list.
- 
-![whats cookin](/whatscookin.jpg)
+This project was a paired project during Module 2 at [Turing School of Software & Design](https://turing.io/).
 
 ---
 ### Deployment
