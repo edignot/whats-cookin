@@ -70,5 +70,5 @@ In addition to building a functional application, we worked on the following obj
 
 ### Contributors
 
-* [Rachael Thomas](https://github.com/rachael-t)
-* [Edita Ignot](https://github.com/edignot)
+#### [Edita Ignot](https://github.com/edignot) | [MY COMMITS](https://github.com/edignot/whats-cookin/commits/master?author=edignot&branch=master)
+[Rachael Thomas](https://github.com/rachael-t)
